@@ -1,0 +1,6 @@
+1. Para abrir el archivo HTML, utiliza tu navegador favorito.
+2. Asegúrate de guardar cualquier cambio antes de recargar la página.
+3. Puedes modificar el contenido en las secciones <header>, <main> y <footer>.
+4. Si deseas añadir una nueva sección, utiliza las etiquetas <section> y <h2>.
+5. Recuerda incluir enlaces externos con <a href="URL">Texto</a>.
+6. Guarda siempre el archivo con codificación UTF-8 para evitar errores de caracteres.
